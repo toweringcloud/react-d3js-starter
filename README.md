@@ -1,2 +1,3 @@
-# remix-d3-starter
-react chart challenge using d3.js
+# react-d3js-starter
+
+vite + react based interactive chart ui examples using d3.js
